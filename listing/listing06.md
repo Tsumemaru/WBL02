@@ -1,3 +1,4 @@
+```
 package main
 
 import (
@@ -16,7 +17,7 @@ func modifySlice(i []string) {
 	i[1] = "5"
 	i = append(i, "6")
 }
-
+```
 Ответ:
 
 [3 2 3]
